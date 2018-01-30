@@ -1,5 +1,4 @@
 # cs231n
-my assignment solutions for Stanford cs231n Convolutional Neural Networks for Visual Recognition
 ===============
 
 Here are my assignment solutions for cs231n (Spring 2017). The course website: http://cs231n.stanford.edu/ 
@@ -9,6 +8,7 @@ I want to thank Stanford for making the lecture note, video and assignment avail
 For GPU based homework, Stanford made two choices:
 * PyTorch
 * Tensorflow
+
 All my current solutions are subject to Tensorflow. All assignment should be completed and passed the test set.
 
 If there is any errors or typo (or better solution!!!) please inform me!
